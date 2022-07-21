@@ -1,0 +1,49 @@
+{
+    "keptn": {
+        "git": [
+            "https://github.com/keptn/community.git",
+            "https://github.com/keptn/keptn.git",
+            "https://github.com/keptn/keptn.github.io.git",
+            "https://github.com/keptn/go-utils.git"
+        ],
+        "github:repo": [
+            "https://github.com/keptn/community",
+            "https://github.com/keptn/keptn",
+            "https://github.com/keptn/keptn.github.io",
+            "https://github.com/keptn/go-utils"
+        ],
+        "twitter": [
+            "keptn",
+            "keptnProject"
+        ],
+        "dockerhub": [
+            "keptn api",
+            "keptn distributor"
+        ],
+        "github:release": [
+            "https://github.com/keptn/keptn"
+            ]
+    },
+    "junit": {
+        "github:release": [
+            "https://github.com/junit-pioneer/junit-pioneer"
+        ],
+
+        "git": [
+            "https://github.com/junit-pioneer/junit-pioneer.git",
+            "https://github.com/junit-pioneer/convert-junit4-to-junit5.git"
+        ],
+        "github:repo": [
+            "https://github.com/junit-pioneer/junit-pioneer",
+            "https://github.com/junit-pioneer/convert-junit4-to-junit5"
+        ],
+        "twitter": [
+            "junitpioneer"
+        ]
+    },
+    "monaco": {
+        "github:release": [
+            "https://github.com/dynatrace-oss/dynatrace-monitoring-as-code"
+        ]
+    }
+}
